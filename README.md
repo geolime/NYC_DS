@@ -5,6 +5,7 @@ Case Review
 
 # Technologies
 Python
+
 BigQuery
 
 # Task
