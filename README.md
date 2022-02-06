@@ -25,6 +25,14 @@ NB: We expect that you use the dataset creatively. All assumptions don’t have 
 sense but we expect you to be able to describe why you used the data in the way you did.
 
 # Files
+## Data Folder
+This contains exported data and some data dependencies on the Notebook file.
 
-Python workflow:
-https://github.com/geolime/nyc_unacast_ds/blob/main/Unacast_DS_NYC.ipynb
+## Task 1 Folder
+This contains SQL queries and results.
+
+## Task 2 Folder
+This contains images for some insights into NYC data with NYC Citibike.
+
+## Python Notebook
+This contains Python script for Tasks 1 and 2.
