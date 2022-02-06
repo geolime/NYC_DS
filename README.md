@@ -11,8 +11,11 @@ BigQuery
 # Task
 # Task 1: Explore and understand the dataset
 **1. What is the most popular station and end station?**
+
 **2. What is the gender distribution of Citibike users?**
+
 **3. What is the trip duration distribution of Citibike trips?**
+
 **4. Were there new bike stations introduced or removed at any point in time? What makes you think there were or weren't?**
 
 # Task 2: Insights about areas in NYC
