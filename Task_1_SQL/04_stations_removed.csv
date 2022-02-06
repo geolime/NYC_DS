@@ -1,0 +1,21 @@
+station_id,name,last_reported,is_installed
+4454,Audubon Ave & W 192 St,2021-09-20T08:26:51Z,false
+361,Allen St & Hester St,1970-01-02T00:00:00Z,false
+403,E 2 St & 2 Ave,1970-01-02T00:00:00Z,false
+465,Broadway & W 41 St,1970-01-02T00:00:00Z,false
+482,W 15 St & 7 Ave,1970-01-02T00:00:00Z,false
+3286,E 89 St & 3 Ave,1970-01-02T00:00:00Z,false
+3379,E 103 St & Lexington Ave,1970-01-02T00:00:00Z,false
+3390,E 109 St & 3 Ave,1970-01-02T00:00:00Z,false
+3481,York St,1970-01-02T00:00:00Z,false
+3798,W 40 St & 5 Ave,1970-01-02T00:00:00Z,false
+3832,Central Ave & Weirfield St,1970-01-02T00:00:00Z,false
+4022,Lenox Ave & W 142 St,1970-01-02T00:00:00Z,false
+4122,Central Park W & W 97 St,1970-01-02T00:00:00Z,false
+4181,Hoe Ave & Jennings St,1970-01-02T00:00:00Z,false
+4344,6 Ave & 17 St,1970-01-02T00:00:00Z,false
+4426,E 9 St & 5 Ave,1970-01-02T00:00:00Z,false
+4543,Folin St & E 181 St,1970-01-02T00:00:00Z,false
+4549,Keegan Rd & 2 Ave,1970-01-02T00:00:00Z,false
+4650,Broad St & Water St,1970-01-02T00:00:00Z,false
+4670,W Tremont Ave & Matthewson Rd,1970-01-02T00:00:00Z,false
