@@ -23,3 +23,8 @@ many can be found readily available on BigQuery.
 
 NB: We expect that you use the dataset creatively. All assumptions don’t have to make 100%
 sense but we expect you to be able to describe why you used the data in the way you did.
+
+# Files
+
+Python workflow:
+https://github.com/geolime/nyc_unacast_ds/blob/main/Unacast_DS_NYC.ipynb
