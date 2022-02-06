@@ -2,13 +2,7 @@
 Interal Use Only - NYC Citibike
 Case Review
 
-
-# Technologies
-Python
-
-BigQuery
-
-# Task
+# Tasks
 # Task 1: Explore and understand the dataset
 **1. What is the most popular station and end station?**
 
@@ -39,3 +33,9 @@ This contains images for some insights into NYC data with NYC Citibike.
 
 ## Python Notebook
 This contains Python script for Tasks 1 and 2.
+
+
+# Technologies
+Python
+
+BigQuery
