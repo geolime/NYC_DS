@@ -1,5 +1,5 @@
-# Unacast Data Science Case Review
-Interal Use Only - NYC Citibike
+# Data Science Case Review
+NYC Citibike
 Case Review
 
 # Tasks
@@ -12,14 +12,7 @@ Case Review
 
 **4. Were there new bike stations introduced or removed at any point in time? What makes you think there were or weren't?**
 
-# Task 2: Insights about areas in NYC
-The task is very open: Imagine being a Data Scientist at either NY Citibikes or e.g. the city of
-New York, and your team lead has asked you to find interesting insights (preferably actionable)
-about areas in NYC. We encourage you to use supplementing data sets to the Citibikes dataset,
-many can be found readily available on BigQuery.
-
-NB: We expect that you use the dataset creatively. All assumptions don’t have to make 100%
-sense but we expect you to be able to describe why you used the data in the way you did.
+# Task 2: Some possible insights about areas in NYC
 
 # Files
 ## Data Folder
