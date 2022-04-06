@@ -12,7 +12,7 @@ Case Review
 
 **4. Were there new bike stations introduced or removed at any point in time? What makes you think there were or weren't?**
 
-# 2: Some possible insights about areas in NYC
+# 2: Some insights about areas in NYC
 
 # Files
 ## Data Folder
