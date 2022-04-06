@@ -27,7 +27,8 @@ This contains images for some insights into NYC data with NYC Citibike.
 ## Python Notebook
 This contains Python script for Tasks 1 and 2.
 
-NYC_Bike_Data_Science.ipynb
+[NYC Bike Data Analysis](NYC_Bike_Data_Science.ipynb
+)
 
 
 # Technologies
