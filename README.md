@@ -2,7 +2,7 @@
 NYC Citibike
 Case Review
 
-# Activity
+# Task
 # 1: Explore and understand the dataset
 **1. What is the most popular station and end station?**
 
@@ -18,10 +18,10 @@ Case Review
 ## Data Folder
 This contains exported data and some data dependencies on the Notebook file.
 
-## Activity 1 Folder
+## Task 1 Folder
 This contains SQL queries and results.
 
-## Activity 2 Folder
+## Task 2 Folder
 This contains images for some insights into NYC data with NYC Citibike.
 
 ## Python Notebook
